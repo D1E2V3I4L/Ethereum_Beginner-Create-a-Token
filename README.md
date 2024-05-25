@@ -15,7 +15,7 @@ To get started with the project, follow these steps:
 
 ## 1 Clone the repository to your local machine:
 
-git clone https://github.com/your_usernameL/Ethereum_Beginner-Create-a-Token.git
+git clone https://github.com/D1E2V3I4L/Ethereum_Beginner-Create-a-Token.git
 
 ## 2 Navigate to the project directory:
 
